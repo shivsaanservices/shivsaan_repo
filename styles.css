@@ -27,9 +27,9 @@ body{margin:0;color:#071028;background:linear-gradient(180deg,var(--bg),#ffffff)
 .hero-copy h2{font-size:32px;margin:0 0 8px;color:var(--navy)}
 .hero-copy p{color:var(--muted);margin:0 0 12px}
 .btn{display:inline-block;background:linear-gradient(90deg,var(--accent1),var(--accent2));color:#fff;padding:12px 18px;border-radius:8px;text-decoration:none;border:0;cursor:pointer}
-.section{padding:36px 0;border-bottom:1px solid rgba(6,18,56,0.04)}
+.section{padding:36px 0;border-bottom:2px solid rgba(6,18,56,0.04)}
 .services-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
-.card{border:1px solid rgba(6,18,56,0.06);padding:16px;border-radius:8px;background:#fff}
+.card{border:2px solid rgba(6,18,56,0.06);padding:16px;border-radius:8px;background:#fff}
 .pricing-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
 .price{font-weight:700;font-size:18px;color:var(--accent2)}
 .grid.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
@@ -48,3 +48,4 @@ form input, form textarea{width:100%;padding:10px;border:1px solid #e6f2fb;borde
   .logo{height:48px}
   .hero-art img{height:130px}
 }
+
