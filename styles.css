@@ -22,7 +22,7 @@ body{margin:0;color:#071028;background:linear-gradient(180deg,var(--bg),#ffffff)
 .nav a{color:#e6f2ff;text-decoration:none;padding:8px;border-radius:6px;font-weight:500}
 .nav a.cta{background:linear-gradient(90deg,var(--accent1),var(--accent2));color:#fff;padding:8px 12px}
 .mobile-menu{display:none;background:transparent;border:0;font-size:22px;color:#fff}
-.hero{padding:56px 0;background:linear-gradient(120deg,var(--ice),#ffffff);border-radius:14px;margin:20px 0;color:var(--navy)}
+.hero{padding:56px 0;background:linear-gradient(120deg,var(--ice),#ffffff);border-radius:14px;margin:0px 0;color:var(--navy)}
 .hero-inner{display:flex;gap:24px;align-items:center;justify-content:space-between}
 .hero-copy h2{font-size:32px;margin:0 0 8px;color:var(--navy)}
 .hero-copy p{color:var(--muted);margin:0 0 12px}
@@ -48,4 +48,5 @@ form input, form textarea{width:100%;padding:10px;border:1px solid #e6f2fb;borde
   .logo{height:48px}
   .hero-art img{height:130px}
 }
+
 
